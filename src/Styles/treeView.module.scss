@@ -1,0 +1,24 @@
+.treeContainer {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #eef6ff;
+  border-radius: 8px;
+
+  select {
+    margin-bottom: 15px;
+    padding: 6px;
+  }
+
+  ul {
+    list-style-type: circle;
+    padding-left: 20px;
+  }
+
+  li {
+    margin: 4px 0;
+  }
+
+  p {
+    margin-top: 10px;
+  }
+}

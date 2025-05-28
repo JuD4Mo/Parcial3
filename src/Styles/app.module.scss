@@ -1,0 +1,24 @@
+.app {
+  padding: 30px;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9fafc;
+  color: #333;
+
+  h1 {
+    font-size: 28px;
+    color: #2b4b77;
+    margin-bottom: 30px;
+  }
+
+  h2, h3 {
+    margin-top: 30px;
+    color: #355d99;
+  }
+
+  hr {
+    border: none;
+    height: 1px;
+    background: #ccc;
+    margin: 40px 0;
+  }
+}
